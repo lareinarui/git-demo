@@ -13,4 +13,4 @@ hello huawu! hello git!
 hello huawu! hello git!
 hello huawu! hello git!
 hello huawu! hello git! master test
-hello huawu! hello git!
+hello huawu! hello git! hot-fix test
