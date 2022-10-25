@@ -15,3 +15,5 @@ hello huawu! hello git!
 hello huawu! hello git! master test
 hello huawu! hello git! hot-fix test
 111111111111111111111111111111
+
+test ssh pull
